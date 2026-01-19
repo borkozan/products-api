@@ -30,3 +30,4 @@ C:\dev\products-api\Products.Api\obj\Debug\net8.0\refint\Products.Api.dll
 C:\dev\products-api\Products.Api\obj\Debug\net8.0\Products.Api.pdb
 C:\dev\products-api\Products.Api\obj\Debug\net8.0\Products.Api.genruntimeconfig.cache
 C:\dev\products-api\Products.Api\obj\Debug\net8.0\ref\Products.Api.dll
+C:\dev\products-api\Products.Api\obj\Debug\net8.0\Products.Api.sourcelink.json
